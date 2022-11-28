@@ -29,6 +29,6 @@ I am a Lead iOS Engnieer working with Obj-c, Swift for more than 10 years, From 
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/emadgnia)
 [![My LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emadgnia/)
 
-[Raywenderlich Profile](https://www.raywenderlich.com/u/emadgnia)
+[Kodeco Profile](https://www.kodeco.com/u/emadgnia)
 
 <a href="https://www.buymeacoffee.com/emadgnia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
